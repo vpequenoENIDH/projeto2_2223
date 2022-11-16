@@ -1,0 +1,3 @@
+public class appGestaoAlunos {
+    //Coloque o código principal da sua aplicação aqui ...
+}
